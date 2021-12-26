@@ -1,0 +1,7 @@
+name: ItemLifeTime
+version: 0.0.1
+main: DavyCraft648\ItemLifeTime\Main
+api: ["4.0.0"]
+description: Set custom dropped item lifetime in your server
+author: DavyCraft648
+website: httpa://github.com/DavyCraft648/ItemLifeTime
