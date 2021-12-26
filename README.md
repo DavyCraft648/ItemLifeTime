@@ -1,4 +1,4 @@
-# <img height="64" src="https://github.con/DavyCraft648/icon.png" width="64"/> ItemLifeTime
+# <img height="64" src="https://github.com/DavyCraft648/ItemLifeTime/blob/main/icon.png" width="64"/> ItemLifeTime
 Set custom dropped item lifetime in your server
 
 ## How does this works?
