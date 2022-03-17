@@ -1,7 +1,7 @@
 name: ItemLifeTime
-version: 0.0.1
+version: 0.1.0
 main: DavyCraft648\ItemLifeTime\Main
 api: ["4.0.0"]
-description: Set custom dropped item lifetime in your server
+description: Adjust the time of dropped items to disappear in your server
 author: DavyCraft648
 website: httpa://github.com/DavyCraft648/ItemLifeTime
